@@ -1,0 +1,9 @@
+C:\Users\Devel\source\repos\TechnicalTest\Constants\bin\Debug\netstandard2.0\Constants.deps.json
+C:\Users\Devel\source\repos\TechnicalTest\Constants\bin\Debug\netstandard2.0\Constants.dll
+C:\Users\Devel\source\repos\TechnicalTest\Constants\bin\Debug\netstandard2.0\Constants.pdb
+C:\Users\Devel\source\repos\TechnicalTest\Constants\obj\Debug\netstandard2.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devel\source\repos\TechnicalTest\Constants\obj\Debug\netstandard2.0\Constants.AssemblyInfoInputs.cache
+C:\Users\Devel\source\repos\TechnicalTest\Constants\obj\Debug\netstandard2.0\Constants.AssemblyInfo.cs
+C:\Users\Devel\source\repos\TechnicalTest\Constants\obj\Debug\netstandard2.0\Constants.csproj.CoreCompileInputs.cache
+C:\Users\Devel\source\repos\TechnicalTest\Constants\obj\Debug\netstandard2.0\Constants.dll
+C:\Users\Devel\source\repos\TechnicalTest\Constants\obj\Debug\netstandard2.0\Constants.pdb

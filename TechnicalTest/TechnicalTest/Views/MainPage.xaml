@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TechnicalTest.Views.MainPage"
+            Title="{Binding Title}">
+
+    <Grid Margin="10,20,10,10">
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="auto" />
+            <RowDefinition  Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <CollectionView
+                   Grid.Row="0"
+                   x:Name="collectionView"
+                   ItemsSource="{Binding Tips}" 
+                >
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                            <RowDefinition Height="30" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                            <ColumnDefinition Width="*"></ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+                        <Rectangle
+                               Grid.Column="0" 
+                                Grid.RowSpan="2"
+                               Fill="white"
+                               Stroke="Black"
+                               StrokeThickness="1"
+                               WidthRequest="200"
+                               HeightRequest="25"
+                               HorizontalOptions="Start" />
+                        <Label
+                               Margin="10,1,0,0"
+                               Grid.Column="0" 
+                               FontAttributes="Bold"
+                               FontSize="16"
+                               Text="{Binding Date,StringFormat='{0:yyyy-MM-dd}'}"
+                               TextColor="#474747">
+                        </Label>
+                        <Label
+                               Margin="10,1,0,0"
+                               VerticalOptions="Start"
+                               Grid.Column="0" 
+                               Grid.Row="1"
+                               FontAttributes="Bold"
+                               FontSize="16"
+                               Text="{Binding Title}"
+                               TextColor="#474747">
+                        </Label>
+                        <Button
+                                Style="{StaticResource ButtonStyle}"
+                                Grid.Column="1"
+                                Grid.RowSpan="2"
+                                VerticalOptions="Center"
+                                Command="{Binding Source={x:Reference collectionView}, Path=BindingContext.UpdateTipCommand}"
+                                CommandParameter="{Binding .}"
+                                Text="Ver"></Button>
+                        <Button
+                                Style="{StaticResource ButtonStyle}"
+                                Grid.Column="2"
+                                Grid.RowSpan="2"
+                                VerticalOptions="Center"
+                                Command="{Binding Source={x:Reference collectionView}, Path=BindingContext.DeleteTipCommand}"
+                                CommandParameter="{Binding .}"
+                                Text="Borrar"></Button>
+
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        <Button 
+            Style="{StaticResource ButtonStyle}"
+            Grid.Row="1" 
+            Text="Crear" 
+            Margin="0,0,20,22" 
+            Command="{Binding NewTipCommand}"/>
+
+    </Grid>
+
+
+</ContentPage>

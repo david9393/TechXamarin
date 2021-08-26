@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<prism:PrismApplication xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
+             xmlns:prism="http://prismlibrary.com"
+             x:Class="TechnicalTest.App">
+  <Application.Resources>
+
+        <ResourceDictionary>
+            <xct:InvertedBoolConverter x:Key="InvertedBoolConverter" />
+            <Color x:Key="AlternateColor">#4194A9</Color>
+            <Style
+                x:Key="ButtonStyle"
+                TargetType="Button">
+                <Setter Property="TextColor" Value="{StaticResource AlternateColor}"/>
+                <Setter Property="VerticalOptions" Value="End"/>
+                <Setter Property="HorizontalOptions" Value="Center"/>
+                <Setter Property="BorderColor" Value="Black"/>
+                <Setter Property="BorderWidth" Value="1"/>
+                <Setter Property="FontAttributes" Value="Bold"/>
+                <Setter Property="WidthRequest" Value="100"/>
+                <Setter Property="HeightRequest" Value="40"/>
+
+
+            </Style>
+
+        </ResourceDictionary>
+
+   </Application.Resources>
+</prism:PrismApplication>
