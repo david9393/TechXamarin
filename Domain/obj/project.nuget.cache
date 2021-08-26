@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lH0jSPXM089cX/n8jtY/TuLapwxF2EOLZNps4zXozib+blgQi3zvznOuqEdPpdyBF/CJ8fUGQrWbiu+IsOPbDA==",
+  "dgSpecHash": "1d1Uldyoz+UXMlmUOrDlD5LPqedJT26eVjRMQTpep7y40bf49I51O6mOF5vBHh8M+rI1CkEBU48900+MQpSlLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devel\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
     "C:\\Users\\Devel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj",
+      "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj",
       "projectName": "Constants",
-      "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj",
+      "projectPath": "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj",
       "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\obj\\",
+      "outputPath": "C:\\Desarrollos\\TechXamarin\\Constants\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OPkmwsHTHj5JfkPq1B96Ktkfyowqi4GRroNK+MXEjRkhr6z4ossXKEg4Gi6KH1/lh9EyN3nqVHMOakzQ7z0u/Q==",
+  "dgSpecHash": "LYGjpO+gqZdy/6Q3i0ViNDEKds/P3OITNg/zMxEy+YuL0iBSSm6+84pma1lqqgBhTTmuPB6r+utL3FZ0BrDpAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
+  "projectFilePath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Devel\\.nuget\\packages\\automapper.collection\\7.0.0\\automapper.collection.7.0.0.nupkg.sha512",

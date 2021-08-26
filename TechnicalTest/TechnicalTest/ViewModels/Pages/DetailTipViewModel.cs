@@ -48,11 +48,14 @@ namespace TechnicalTest.ViewModels
         private async Task UpdateTip()
         {
            TipModel tipModel= await _tipService.UpdateTip(_mapper.Map<TipModel>(Tip));
-            if (tipModel != null)
+            if (tipModel == null)
             {
-                await App.Current.MainPage.DisplayAlert("Ok", "Se modifico correctamente", "Ok");
-                await NavigationService.GoBackAsync();
+                await App.Current.MainPage.DisplayAlert("Alerta", "Verifique faltan datos requeridos", "Ok");
+                return;
             }
+         
+            await App.Current.MainPage.DisplayAlert("Ok", "Se modifico correctamente", "Ok");
+            await NavigationService.GoBackAsync();            
         }
         private async Task AddTip()
         {

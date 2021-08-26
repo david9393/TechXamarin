@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj": {}
+    "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\CommonShared.csproj": {
+    "C:\\Desarrollos\\TechXamarin\\CommonShared\\CommonShared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\CommonShared.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\CommonShared\\CommonShared.csproj",
         "projectName": "CommonShared",
-        "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\CommonShared.csproj",
+        "projectPath": "C:\\Desarrollos\\TechXamarin\\CommonShared\\CommonShared.csproj",
         "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\obj\\",
+        "outputPath": "C:\\Desarrollos\\TechXamarin\\CommonShared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj": {
-                "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj"
+              "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj": {
+                "projectPath": "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj": {
+    "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj",
         "projectName": "Constants",
-        "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj",
+        "projectPath": "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj",
         "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\obj\\",
+        "outputPath": "C:\\Desarrollos\\TechXamarin\\Constants\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -136,14 +136,14 @@
         }
       }
     },
-    "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj": {
+    "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\obj\\",
+        "outputPath": "C:\\Desarrollos\\TechXamarin\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -163,8 +163,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -204,14 +204,14 @@
         }
       }
     },
-    "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Desarrollos\\TechXamarin\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -231,8 +231,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\CommonShared.csproj": {
-                "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\CommonShared.csproj"
+              "C:\\Desarrollos\\TechXamarin\\CommonShared\\CommonShared.csproj": {
+                "projectPath": "C:\\Desarrollos\\TechXamarin\\CommonShared\\CommonShared.csproj"
               }
             }
           }
@@ -280,14 +280,14 @@
         }
       }
     },
-    "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj": {
+    "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
         "projectName": "TechnicalTest.Android",
-        "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
+        "projectPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
         "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\obj\\",
+        "outputPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -307,8 +307,8 @@
         "frameworks": {
           "monoandroid10.0": {
             "projectReferences": {
-              "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
-                "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj"
+              "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
+                "projectPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj"
               }
             }
           }
@@ -333,14 +333,14 @@
         }
       }
     },
-    "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
+    "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj",
+        "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj",
         "projectName": "TechnicalTest",
-        "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj",
+        "projectPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj",
         "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\obj\\",
+        "outputPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -360,11 +360,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\CommonShared.csproj": {
-                "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\CommonShared\\CommonShared.csproj"
+              "C:\\Desarrollos\\TechXamarin\\CommonShared\\CommonShared.csproj": {
+                "projectPath": "C:\\Desarrollos\\TechXamarin\\CommonShared\\CommonShared.csproj"
               },
-              "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj"
+              "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj"
               }
             }
           }

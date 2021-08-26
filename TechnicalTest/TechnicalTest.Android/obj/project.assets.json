@@ -4902,11 +4902,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
+      "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
       "projectName": "TechnicalTest.Android",
-      "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
+      "projectPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\TechnicalTest.Android.csproj",
       "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.Android\\obj\\",
+      "outputPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4926,8 +4926,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
-              "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj"
+            "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
+              "projectPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj"
             }
           }
         }

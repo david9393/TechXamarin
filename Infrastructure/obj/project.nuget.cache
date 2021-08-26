@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nPaU1NrJ3MXLR095jEa97nDdUrFUanqeJ9oS1VgY3vajWsSxgq8uUAf31MV87Vb5eO+TsaulQap0jyXQMZ9ROQ==",
+  "dgSpecHash": "e5G9uDOCaXH6gAIERKnnsHf6qTzkirVGktD6rkpYp4zVxfoL3HIXYAGwkx+u6o4CXfB+yHnT78facbBO38BAHQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devel\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Devel\\.nuget\\packages\\microsoft.data.sqlite.core\\2.2.6\\microsoft.data.sqlite.core.2.2.6.nupkg.sha512",

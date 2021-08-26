@@ -64,6 +64,10 @@ namespace Domain.Services.Tip
         /// <returns>Tip</returns>
         public async Task<TipModel> UpdateTip(TipModel tip)
         {
+            if (!tipValidator.Validate(tip).IsValid)
+            {
+                return null;
+            }
             TipModel tipModel = await _tipRepository.UpdateAsync(tip);
             return tipModel;
         }

@@ -5776,11 +5776,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.iOS\\TechnicalTest.iOS.csproj",
+      "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.iOS\\TechnicalTest.iOS.csproj",
       "projectName": "TechnicalTest.iOS",
-      "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.iOS\\TechnicalTest.iOS.csproj",
+      "projectPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.iOS\\TechnicalTest.iOS.csproj",
       "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.iOS\\obj\\",
+      "outputPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -5800,8 +5800,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
-              "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj"
+            "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj": {
+              "projectPath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest\\TechnicalTest.csproj"
             }
           }
         }

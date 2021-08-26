@@ -4219,11 +4219,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Desarrollos\\TechXamarin\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Devel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Domain\\obj\\",
+      "outputPath": "C:\\Desarrollos\\TechXamarin\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -4243,8 +4243,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Desarrollos\\TechXamarin\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

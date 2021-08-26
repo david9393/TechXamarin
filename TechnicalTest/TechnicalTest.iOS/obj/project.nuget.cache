@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8rnBnhRTLKIMveNCZ68WMYGJYhz56lUiZPF3KAtWGHg7ixGYZQGAixK+vg1yXRJmpQ7VuSRCqLDCL8oBRc8CiA==",
+  "dgSpecHash": "F1uauucIfzu4g+Bn2xMNwYtiiGU4JF4dv/9RkXQljCReCu4cX3tpvM9ZFmLqO6xYx8xFw1MsIsGnk5fseu3zjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\TechnicalTest\\TechnicalTest.iOS\\TechnicalTest.iOS.csproj",
+  "projectFilePath": "C:\\Desarrollos\\TechXamarin\\TechnicalTest\\TechnicalTest.iOS\\TechnicalTest.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devel\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Devel\\.nuget\\packages\\automapper.collection\\7.0.0\\automapper.collection.7.0.0.nupkg.sha512",

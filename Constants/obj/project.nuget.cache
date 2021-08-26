@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DVUl9llKGr036Ca9QjHqAHcAJ2WHUxGTAYVbk42YqHxn3A6CZaD50a/olmkXsFG0ez56yjNdnMco3ftLFY7HcA==",
+  "dgSpecHash": "bbiJ9DOTJX5YAinyY9fjERAiKX80V9fzI2drAHg/l8fsRrUtvDRmqLDFqmTCGlu6jY0A/xuAiOme6dR413iyKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Devel\\source\\repos\\TechnicalTest\\Constants\\Constants.csproj",
+  "projectFilePath": "C:\\Desarrollos\\TechXamarin\\Constants\\Constants.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Devel\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Devel\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
